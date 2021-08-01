@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tan</h1>
-<h3 align="center">A senior software engineer, dad of 2 from Vietnam</h3>
+<h3 align="center">A senior software engineer, devops, dad of 2 from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dutroctu&label=Profile%20views&color=0e75b6&style=flat" alt="dutroctu" /> </p>
 
